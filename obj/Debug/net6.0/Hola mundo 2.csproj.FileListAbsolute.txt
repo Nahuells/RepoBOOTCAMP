@@ -1,0 +1,15 @@
+C:\Users\nahue\source\repos\Hola mundo 2\bin\Debug\net6.0\Hola mundo 2.exe
+C:\Users\nahue\source\repos\Hola mundo 2\bin\Debug\net6.0\Hola mundo 2.deps.json
+C:\Users\nahue\source\repos\Hola mundo 2\bin\Debug\net6.0\Hola mundo 2.runtimeconfig.json
+C:\Users\nahue\source\repos\Hola mundo 2\bin\Debug\net6.0\Hola mundo 2.dll
+C:\Users\nahue\source\repos\Hola mundo 2\bin\Debug\net6.0\Hola mundo 2.pdb
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\Hola mundo 2.csproj.AssemblyReference.cache
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\Hola mundo 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\Hola mundo 2.AssemblyInfoInputs.cache
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\Hola mundo 2.AssemblyInfo.cs
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\Hola mundo 2.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\Hola mundo 2.dll
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\refint\Hola mundo 2.dll
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\Hola mundo 2.pdb
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\Hola mundo 2.genruntimeconfig.cache
+C:\Users\nahue\source\repos\Hola mundo 2\obj\Debug\net6.0\ref\Hola mundo 2.dll
