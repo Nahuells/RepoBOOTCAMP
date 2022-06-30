@@ -1,0 +1,15 @@
+C:\Users\nahue\source\repos\Bucles 3\bin\Debug\net6.0\Bucles 3.exe
+C:\Users\nahue\source\repos\Bucles 3\bin\Debug\net6.0\Bucles 3.deps.json
+C:\Users\nahue\source\repos\Bucles 3\bin\Debug\net6.0\Bucles 3.runtimeconfig.json
+C:\Users\nahue\source\repos\Bucles 3\bin\Debug\net6.0\Bucles 3.dll
+C:\Users\nahue\source\repos\Bucles 3\bin\Debug\net6.0\Bucles 3.pdb
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\Bucles 3.csproj.AssemblyReference.cache
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\Bucles 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\Bucles 3.AssemblyInfoInputs.cache
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\Bucles 3.AssemblyInfo.cs
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\Bucles 3.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\Bucles 3.dll
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\refint\Bucles 3.dll
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\Bucles 3.pdb
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\Bucles 3.genruntimeconfig.cache
+C:\Users\nahue\source\repos\Bucles 3\obj\Debug\net6.0\ref\Bucles 3.dll
